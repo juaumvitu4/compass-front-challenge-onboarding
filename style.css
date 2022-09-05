@@ -1,5 +1,4 @@
-body {
-    background-color: #92E3A9;
+body {    
     font-family: 'Poppins', sans-serif;
 }
 
@@ -16,7 +15,7 @@ body {
     margin-top: 100px;
     background-color: white;
     box-shadow: 20px;
-    border: 15px solid #EBEBEB;
+    border: 15px solid white;
 }
 
 .banner {

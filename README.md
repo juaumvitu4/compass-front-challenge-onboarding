@@ -4,4 +4,4 @@
   <img src="docs/img/Home.png" width="600">
 </p>
 
-[Link Deployments](https://juaumvitu4.github.io/compass-front-challenge-onboarding/)
+[Link Challenger](https://juaumvitu4.github.io/compass-front-challenge-onboarding/)
