@@ -97,13 +97,13 @@ body {
     }
     .card {
         justify-content: center;
-        width: 230px;
-        height: 710px;
-        border-radius: 40px;
-        border: 10px solid white;
+        width: 330px;
+        height: 510px;
+        
+        
     }
     .banner {
-        max-width: 100%;
+        max-width: 300px;
         
     }
 
